@@ -1,0 +1,4 @@
+envs_dirs:
+  - /home/elijah/Development/0_Config/conda_envs
+pkgs_dirs:
+  - /home/elijah/Development/9_Temporary/conda_pkgs
